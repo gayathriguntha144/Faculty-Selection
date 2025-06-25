@@ -31,7 +31,7 @@ This is a web application built using Flask where students can select courses, p
 
 1. Clone the repository:
    
-   git clone https://github.com/gayathriguntha144/course_selection_system.git
+   git clone https://github.com/gayathriguntha144/Faculty-Selection.git
    
 2. Navigate to the project directory:
    
